@@ -5,10 +5,6 @@ date: "3/29/2019"
 output: html_document
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
 ## Gabriel Walker: A tool for exploring trends in Chinese elite diplomacy and overseas financial flows.
 
 ####Pros
@@ -39,3 +35,29 @@ knitr::opts_chunk$set(echo = TRUE)
 * It would be cool to see what was ultimately done with the investments and aid (were they accepted, appropriately allocated, etc.)
 
 * Overlaying plans for the Belt and Road Initiative (One Belt One Road) may yield fascinating results
+
+
+## Max Weiss: Presidential and Senate Twitter Activity: Trump’s First 9 Months in Office
+
+####Pros
+
+* Hot topic with fascinating results
+
+* Extremely user-friendly interface, description page offered a helpful abstract, overall clarity in explaining methodology
+
+* The word clouds for Democrats, Republicans, and Trump were visual genius
+
+* Random Tweet Generator was also a lovely touch, offers a glimpse at raw data, fun qualitative sample to complement quantitative displays
+
+* Use of three separate lexicon methods for the sentiment analysis was very thoughtful, the descriptions of Bing, NRC, and Afinn included under the charts were great
+
+
+####Cons
+
+* Why does Trump have such a disproportionate amount of Favorites on average compared to all other groups? What does this say about our Internet culture...
+
+* Case sensitive search in Word Use Frequencies may not be so helpful in the case of Tweets, where there might be immense variation in punctuation and capitalization habits
+
+* Some explanations of outliers in the sentiment analysis (e.g. Senators with negative values for positivity) would have been fun
+
+* An interesting extension of this project might incorporate to a greater extent Twitter engagements (e.g. is there geographical bearing on who retweets a certain party's posts more, sentiment analysis of the replies)
