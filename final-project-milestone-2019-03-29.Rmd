@@ -1,0 +1,41 @@
+---
+title: "Final Project Milestone"
+author: "Margaret Sun"
+date: "3/29/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Gabriel Walker: A tool for exploring trends in Chinese elite diplomacy and overseas financial flows.
+
+####Pros
+
+* Hot topic
+
+* Extremely advanced interface (I nearly cried looking at this), involves a substantial amount of data points and information
+
+* Map is extremely thorough: clicking on each point reveals a summary of Funder, Sector, Description, etc. of the aid or investment in that location
+
+* Expansion of points on map into a web of each investment was visual awesomeness
+
+* The plots of what industries China invested in for each country where incredibly useful
+
+* The timeline and tables summarizing the investments reinforced key information
+
+* Potential as a database for future research on this topic
+
+
+####Cons
+
+* Extremely intimidating as a final project: how do we make something on par with this given time and knowledge limitations?
+
+* Information conveyed is overwhelming, I would love to see a report of maybe a few key elites and trends in their investments and what it says about their political ambitions, but this is probably a PhD
+
+* Zooming out of the map yields a repeating world map, some points in the Pacific Ocean were on the far left, others on the far right
+
+* It would be cool to see what was ultimately done with the investments and aid (were they accepted, appropriately allocated, etc.)
+
+* Overlaying plans for the Belt and Road Initiative (One Belt One Road) may yield fascinating results
